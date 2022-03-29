@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rubik Cube</string>
+    <string name="showcube">ShowCube</string>
+    <string name="ServiceMessage">!</string>
+    <string name="_new">New</string>
+    <string name="_leftcolumnup">LeftColumnUp</string>
+    <string name="_wallup">WallUp</string>
+    <string name="_rightcolumnup">RightColumnUp</string>
+    <string name="_toprowleft">TopRowLeft</string>
+    <string name="_toprowright">TopRowRight</string>
+    <string name="_wallleft">WallLeft</string>
+    <string name="_wallright">WallRight</string>
+    <string name="_bottomrowleft">BottomRowLeft</string>
+    <string name="_bottomrowright">BottomRowRight</string>
+    <string name="_leftcolumndown">LeftColumnDown</string>
+    <string name="_walldown">WallDown</string>
+    <string name="_rightcolumndown">RightColumnDown</string>
+    <string name="_counterclockwise">CounterClockWise</string>
+    <string name="_clockwise">ClockWise</string>
+    <string name="_mix">Mix</string>
+</resources>
